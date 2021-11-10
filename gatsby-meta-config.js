@@ -1,6 +1,6 @@
 module.exports = {
   title: `JO`,
-  description: `Blog posted about ...`,
+  description: `last Test`,
   author: `[Your Name]`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
