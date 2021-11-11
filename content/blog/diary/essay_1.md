@@ -1,7 +1,7 @@
 ---
 title: '블로그를 시작하면서'
 date: 2021-11-10 17:28:13
-category: 'essay'
+category: 'diary'
 draft: false
 ---
 
